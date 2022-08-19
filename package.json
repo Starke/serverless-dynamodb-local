@@ -32,14 +32,14 @@
         "test": "mocha ./test"
     },
     "dependencies": {
-        "aws-sdk": "^2.7.0",
-        "bluebird": "^3.4.6",
+        "aws-sdk": "^2.1199.0",
+        "bluebird": "^3.7.2",
         "dynamodb-localhost": "0.0.9",
-        "lodash": "^4.17.0"
+        "lodash": "^4.17.21"
     },
     "devDependencies": {
-        "chai": "^4.1.1",
-        "mocha": "^6.2.1",
-        "should": "^11.2.1"
+        "chai": "^4.3.6",
+        "mocha": "^10.0.0",
+        "should": "^13.2.3"
     }
 }
